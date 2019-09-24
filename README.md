@@ -1,5 +1,5 @@
 # Expression_Caculator
-Java expression calculator using queue, stack, postpix, infix
+<pre>Java expression calculator using queue, stack, postpix, infix
 
 It can caculate expression likes this :
 
@@ -11,3 +11,4 @@ OUTPUT : -0.21339745962155615
 
 INPUT : 5 / {(sin60 - 0.2) -30 * 20}
 OUTPUT : -0.008342593965857868
+</pre>
