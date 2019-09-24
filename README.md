@@ -1,7 +1,7 @@
-# Expression_Caculator
+# ExpressionCaculator
 <pre>Java expression calculator using queue, stack, postpix, infix and so on
 
-It can caculate expression likes this :
+It can caculate expressions like this :
 
 INPUT : 23.3 *  (sin3+ 2.5)/ 43.2
 OUTPUT : 1.3766071245476987
