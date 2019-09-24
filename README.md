@@ -1,5 +1,5 @@
 # Expression_Caculator
-<pre>Java expression calculator using queue, stack, postpix, infix
+<pre>Java expression calculator using queue, stack, postpix, infix and so on
 
 It can caculate expression likes this :
 
